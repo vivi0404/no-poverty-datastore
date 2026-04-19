@@ -213,3 +213,29 @@ h2 {
 .viz-card {
   width: 100%;
 }
+.dataset-links {
+  margin-left: 18px;
+  margin-top: 20px;
+  max-width: 900px;
+}
+
+.dataset-item {
+  margin-bottom: 28px;
+}
+
+.dataset-item h3 {
+  margin: 0 0 8px 0;
+  font-size: 22px;
+}
+
+.dataset-item a {
+  color: #ff4a2a;
+  text-decoration: none;
+  font-weight: 700;
+  line-height: 1.5;
+  word-break: break-word;
+}
+
+.dataset-item a:hover {
+  text-decoration: underline;
+}
